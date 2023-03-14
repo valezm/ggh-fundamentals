@@ -6,6 +6,11 @@ Plataforma que permite alojar proyectos utilizando el sistema de control de vers
 3. ¿Qué es el Staging Area?
 
 Se almacena información acerca de lo que estará en tu próximo commit
+
 4. ¿Qué es commit? 
 
 Comando para guardar cambios en Git, creando una versión del proyecto en el **repositorio**
+
+5. ¿Qué comando utilizo para agregar archivos modificados al staging area?
+
+git commit -m "comentario"
