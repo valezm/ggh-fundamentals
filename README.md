@@ -22,3 +22,7 @@ Comando para guardar cambios en Git, creando una versión del proyecto en el **r
 6. ¿Qué comando utilizo para agregar archivos preparados al repositorio?
 
 **git commit -m "comentario de la modificación"**
+
+7. ¿Cuál es el nombre por defecto de la rama principal de mi proyecto? 
+
+**master**, se puede modificar a **main** con git branch -M main
